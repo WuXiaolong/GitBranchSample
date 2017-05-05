@@ -1,2 +1,2 @@
 # GitBranchSample
-本地dev1提交远程分支dev
+本地dev2提交远程分支dev
