@@ -1,2 +1,2 @@
 # GitBranchSample
-来自本地分支dev1
+合并远程分支
