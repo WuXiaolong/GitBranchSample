@@ -10,6 +10,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         //branch master tosomething
-        //来自分支dev
+        //这是分支dev
     }
 }
